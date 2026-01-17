@@ -1,0 +1,24 @@
+redwans-method-website/
+│
+├── index.html                 # Homepage
+├── courses.html               # Courses page
+├── resources.html             # Free resources
+├── blog.html                  # Blog page
+├── contact.html               # Contact page
+│
+├── css/
+│   ├── style.css              # Main styles
+│   ├── responsive.css         # Responsive styles
+│   └── animations.css         # Animations
+│
+├── js/
+│   ├── main.js                # Main JavaScript
+│   ├── course-filter.js       # Course filtering
+│   └── contact-form.js        # Form handling
+│
+├── images/                    # All images
+│   ├── logo.png
+│   ├── hero-bg.jpg
+│   └── ...
+│
+└── README.md                  # Documentation
